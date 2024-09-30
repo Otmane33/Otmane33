@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Otmane33
-- 👀 I’m interested in Paris
-- 🌱 I’m currently learning Css and Javascript
-- 💞️ I’m looking to collaborate on a website model
-- 📫 How to reach me by e-mail: otmane.aiboud@gmail.com
+# Hi there! 👋 I'm Otmane
 
-<!---
-Otmane33/Otmane33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌍 **Location:** Paris, France
+- 🌱 **Currently learning:** React and building modern web applications
+- 💻 **Looking to collaborate on:** Exciting website models and front-end projects
+- 🎯 **My goals:** To master React and contribute to open-source projects
+- 📫 **How to reach me:** [otmane.aiboud@gmail.com](mailto:otmane.aiboud@gmail.com)
+
+Feel free to connect with me! I’m always open to learning and collaborating on innovative projects.
+
+✨ Let’s build something amazing together! ✨
